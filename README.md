@@ -12,4 +12,4 @@
 
 ### 📫 Contact
 - **LinkedIn:** [Your LinkedIn Profile](Your LinkedIn URL)
-- **Email:** [Your Email Address](mailto:your.email@example.com)
+- **Email:** [khamgo1191@gmail.com](mailto:khamgo1191@gmail.com)
