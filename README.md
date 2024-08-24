@@ -9,6 +9,10 @@
 ### 💻 Projects
 - **[Project Name 1](Link to project):** Brief description.
 - **[Project Name 2](Link to project):** Brief description.
+- **[Project Name 1](Link to project):** Brief description.
+- **[Project Name 2](Link to project):** Brief description.
+- **[Project Name 1](Link to project):** Brief description.
+- **[Project Name 2](Link to project):** Brief description.
 
 ### 📫 Contact
 - **LinkedIn:** [Your LinkedIn Profile](Your LinkedIn URL)
