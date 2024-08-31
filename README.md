@@ -9,7 +9,10 @@
 ### 💻 Projects
 - Demo**[Xây dựng website module kê đơn thuốc]( https://modulekedonthuoc.000webhostapp.com/):** Đây là một project nhóm môn công nghệ phần mềm, phát triển module kê đơn thuốc sử dụng PHP và MySQL. Module cho phép quản lý cơ bản thông tin bệnh nhân và đơn thuốc. Dự án đã đạt mục tiêu ban đầu và có tiềm năng phát triển thêm. [Source code](https://github.com/Khamko177/CNPM_Nhom5)
 
-  
+
+- Demo**[Xây dựng website bán điện thoại]( https://danangshop.netlify.app/):** Đây là một project nhóm môn công nghệ phần mềm, phát triển module kê đơn thuốc sử dụng PHP và MySQL. Module cho phép quản lý cơ bản thông tin bệnh nhân và đơn thuốc. Dự án đã đạt mục tiêu ban đầu và có tiềm năng phát triển thêm. [Source code](https://github.com/Khamko177/CNPM_Nhom5)
+
+- 
 - **[Project Name 2](Link to project):** Brief description.
 - **[Project Name 1](Link to project):** Brief description.
 - **[Project Name 2](Link to project):** Brief description.
