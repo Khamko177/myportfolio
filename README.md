@@ -20,4 +20,4 @@
 - **LinkedIn:** [Your LinkedIn Profile](Your LinkedIn URL)
 - **Email:** [khamgo1191@gmail.com](mailto:khamgo1191@gmail.com)
 - **Phone:** 0824906137
-- **Messenger:** [Khamko xys](m.me/khamkoxys?hash=AbbjqANEvlT8J61R&source_id=6946816)
+- **Facebook:** [Khamko xys](https://www.facebook.com/khamkoxys)
