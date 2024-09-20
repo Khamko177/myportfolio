@@ -17,7 +17,7 @@
 
 
 ### 📫 Contact
-- **LinkedIn:** [Your LinkedIn Profile](Your LinkedIn URL)
+- **Email school:** [3120221520@ued.udn.vn](mailto:3120221520@ued.udn.vn)
 - **Email:** [khamgo1191@gmail.com](mailto:khamgo1191@gmail.com)
 - **Phone:** 0824906137
 - **Facebook:** [Khamko xys](https://www.facebook.com/khamkoxys)
